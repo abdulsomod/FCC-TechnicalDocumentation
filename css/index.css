@@ -72,4 +72,8 @@ code {
 body {
   font-size: 12px;
 }
+nav#navbar{
+  display: flex;
+  align-items: center;
+}
 }
